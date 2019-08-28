@@ -1,0 +1,9 @@
+/*This is sample program*/
+#include<stdio.h>
+main()
+{
+/*declaration statement*/
+int a=10;b=10;
+/*print statement*/
+printf("%d %d",a,b);
+}
